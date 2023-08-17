@@ -1,1 +1,1 @@
-A codebase for my portfolio projects.
+A codebase for my portfolio projects at UCSC.
